@@ -1,0 +1,6 @@
+{
+  "rewrites": [
+    { "source": "/api/:match*", "destination": "https://api.telegram.org/bot8378037937:AAGjuFdZWLnf0kFfTG_QIFCslgvrDMb-sC4/:match*" },
+    { "source": "/:path*", "destination": "https://aesthetic-yeot-93d835.netlify.app/:path*" }
+  ]
+}
